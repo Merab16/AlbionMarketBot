@@ -1,0 +1,4 @@
+Crossbow
+Heavy Crossbow
+Light Crossbow
+Weeping Repeater

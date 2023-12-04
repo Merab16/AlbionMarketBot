@@ -1,4 +1,4 @@
 ip: 127.0.0.1
 port: 1609
-login: Merab
-password: 12345
+login: your_login
+password: your_password

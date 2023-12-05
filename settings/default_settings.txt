@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 ip: 192.168.43.194
 port: 1611
 login: Merab
 password: 12345fddf
+=======
+ip: 127.0.0.1
+port: 1609
+login: your_login
+password: your_password
+>>>>>>> 0e8897c34ae0a32fa6cb6f463e25de560018002e

@@ -2,3 +2,5 @@ ip: your_ip
 port: look discord #info
 login: your_login
 password: your_password
+lang: EN
+delay: 0
